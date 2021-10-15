@@ -1,0 +1,2 @@
+# Vulgar words censor
+
