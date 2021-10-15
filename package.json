@@ -20,8 +20,19 @@
     "fuck",
     "**"
   ],
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://johnmelodyme.github.io/donate"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/johnmelodyme"
+    }
+  ],
   "author": "John Melody Me",
   "license": "MIT",
+  "email": "johnmelodyme@yandex.com",
   "bugs": {
     "url": "https://github.com/johnmelodyme/vulgear-words-censor/issues"
   },
