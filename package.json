@@ -1,0 +1,27 @@
+{
+  "name": "vulgar-words-censor",
+  "version": "1.1.0",
+  "description": "Just a simple package for censoring or remove vulgar words",
+  "main": "lib/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmelodyme/vulgear-words-censor.git"
+  },
+  "keywords": [
+    "vulgar",
+    "words",
+    "censor",
+    "censorship",
+    "fuck",
+    "**"
+  ],
+  "author": "John Melody Me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnmelodyme/vulgear-words-censor/issues"
+  },
+  "homepage": "https://github.com/johnmelodyme/vulgear-words-censor#readme"
+}
